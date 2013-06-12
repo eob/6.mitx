@@ -5,5 +5,4 @@
   left: 0px;
   height: 10px;
   background-color: green;
-  z-index: 9999 !important; /* Make it on top! */
 }
