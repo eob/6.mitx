@@ -41,7 +41,7 @@ var Inspector = function($) {
     // Add the CSS file to the HEAD
     var css = document.createElement('link');
     css.setAttribute('rel', 'stylesheet');
-    css.setAttribute('href', 'web-inspector.css'); // XXX TODO CHANGEME!!
+    css.setAttribute('href', 'http://raw.github.com/eob/6.mitx/master/web-inspector.css'); // XXX TODO CHANGEME!!
     document.head.appendChild(css);
 
     if ('jQuery' in window) {
