@@ -49,7 +49,7 @@ var Inspector = function($) {
     } else {
       // Add jQuery to the HEAD and then start polling to see when it is there
       var scr = document.createElement('script');
-      scr.setAttribute('src','//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js');
+      scr.setAttribute('src','http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js');
       document.head.appendChild(scr);
       var t = setInterval(function() {
         if ('jQuery' in window) {
