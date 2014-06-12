@@ -17,8 +17,8 @@ jQuery
   * Element Insertion
   * Element Mutation
   * Element Inspection
-    * Text node
-    * Form element
+    * Text node (score)
+    * Form element (enemy name)
 
 * ENEMIES
   * Selector Model
