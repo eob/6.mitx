@@ -1,6 +1,3 @@
-/*
- * Misc Global Variables
- */
 var LASER_SOUNDS = ['laser1.mp3', 'laser2.mp3'];
 
 
@@ -16,7 +13,9 @@ var LASER_SOUNDS = ['laser1.mp3', 'laser2.mp3'];
 var Ship = function(jQueryElement) {
   exports = {};
 
+  // Two way lookup
   this.$element = jQueryElement;
+  this.$element.data('object', this);
 
   // Set up any member variables you want here.
   // ------------------------------------------
