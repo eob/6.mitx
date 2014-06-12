@@ -53,12 +53,10 @@ PART 3: AJAX
 
 AFTERNOON: SPACEGAME!!
 
-<h2>Points</h2>
-<ul>
-  <li>most creative enemy (enemy must use ajax!) (choose your own flirkr image tag? stock ticker? random tweets?)</li>
-  <li>Spaceship control (mouse? keyboard? buttons?)
-  <li>how to kill enemy? collide in space? shoot something? they randomly die?
-  <li>enemy animation
-</ul>
+POINTS
+* most creative enemy (enemy must use ajax!) (choose your own flirkr image tag? stock ticker? random tweets?)</li>
+* Spaceship control (mouse? keyboard? buttons?)
+* how to kill enemy? collide in space? shoot something? they randomly die?
+* enemy animation
 
 Be creative, but focus on practicing different skills. Street cred for cool things, but more importantly a diverse set of things rather than obsessing on one.
