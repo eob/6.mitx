@@ -3,6 +3,10 @@
 
 jQuery
 
+* What to we REALLY do with Javascript
+  * Control HTML
+  * Talk to Server
+
 * The problem: Javascript... is kind of annoying by itself
 * jQuery (and more recently, Underscore) help with that
 * We'll learn jQuery in the context of a space game
@@ -27,14 +31,11 @@ jQuery
 
 AN ASIDE: WIDGETS
 
+* Objects which encapsulate and "own" some part of the page.
+* Look up two ways HTML -> JS and JS -> HTML
+
 * How do we talk about a widget?
   * How would you move a spaceship as a turn based game?
-
-* What to we REALLY do with Javascript
-  * Control HTML
-  * Talk to Server
-  * Objects which encapsulate and "own" some part of the page.
-  * Look up two ways HTML -> JS and JS -> HTML
 
 TASK: Create an Enemy Widget. Initializes to a random location.
 
