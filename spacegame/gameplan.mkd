@@ -16,6 +16,9 @@ jQuery
   * Element Creation
   * Element Insertion
   * Element Mutation
+  * Element Inspection
+    * Text node
+    * Form element
 
 * ENEMIES
   * Selector Model
@@ -51,6 +54,9 @@ PART 3: AJAX
 * Talk about request, response
 * Example ajax documentation
 * Promises
+  * jQuery: done, fail, always, then
+* Async deferment problem
+* Sending data from a form
 
 AFTERNOON: SPACEGAME!!
 
